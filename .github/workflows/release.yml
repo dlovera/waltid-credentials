@@ -21,18 +21,12 @@ jobs:
       - name: Set version
         run: |
           git tag v${{ env.release_version }}
-          git push --tags
-      # bun setup and build
-      - name: Setup bun 🏗
-        uses: oven-sh/setup-bun@v1
-#        with:
-#          version: "canary"
+          git push --tags     
       - name: Setup Node.js 🏗
         uses: actions/setup-node@v4
         with:
           node-version: '20.x'
           cache: 'npm'
-          cache-dependency-path: package-lock.json
       - name: Install dependencies 👨🏻‍💻
         run: npm ci
       - name: Build
