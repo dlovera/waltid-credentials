@@ -1,12 +1,14 @@
-FROM docker.io/gplane/pnpm as buildstage
+FROM docker.io/node:alpine AS buildstage
+RUN apk add --update nodejs git
 COPY ./package.json /build/
 WORKDIR /build
-RUN pnpm install
+RUN npm install
 COPY ./ /build
-RUN pnpm run build
+
+RUN npm run build
 # RUN
-FROM docker.io/node:20-alpine
+FROM docker.io/node:alpine
 COPY --from=buildstage /build/.output/ /app
 WORKDIR /app
 EXPOSE 3000
-ENTRYPOINT node server/index.mjs
+ENTRYPOINT ["node", "server/index.mjs"]

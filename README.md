@@ -6,8 +6,14 @@ Hosted under: https://credentials.walt.id/
 
 # Setup
 ```shell
-bun install
-bun dev
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
 ```
 
 # Docker

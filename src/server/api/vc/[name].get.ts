@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
     const contentQuery = await serverQueryContent(event).find();
 
     const matchedContent = contentQuery.find((content) => {
-        return content._path?.startsWith("/credentials/") && content.title === name;
+        return content._path?.startsWith("/w3c-credentials/") && content.title === name;
     });
 
     if (matchedContent === undefined) {
