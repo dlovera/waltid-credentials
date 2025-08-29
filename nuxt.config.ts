@@ -4,10 +4,13 @@ export default defineNuxtConfig({
 
     devtools: { enabled: true },
 
+    // Add compatibility date as recommended
+    compatibilityDate: '2025-08-29',
+
     modules: [
         "@nuxt/content",
         ["@unocss/nuxt", { autoImport: false }],
-        "nuxt-icon",
+        "@nuxt/icon", // Updated from deprecated nuxt-icon
         // "nuxt-monaco-editor", // not used right now
         "@nuxt/image",
         "@vueuse/nuxt",
@@ -22,6 +25,12 @@ export default defineNuxtConfig({
         rateLimiter: false
     },
 
+    // Add vite config to handle global issues
+    vite: {
+        define: {
+            global: 'globalThis'
+        }
+    },
 
     content: {
         highlight: {
@@ -29,7 +38,6 @@ export default defineNuxtConfig({
             preload: ["json", "kotlin", "http", "js", "ts", "md", "shell"]
         }
     },
-
 
     router: {
         options: {
