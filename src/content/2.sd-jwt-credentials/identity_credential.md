@@ -1,4 +1,4 @@
-# Identity Credential (SD-JWT)
+# Identity Credential
 
 This is an example of an IETF SD-JWT (Selective Disclosure JWT) Verifiable Credential for identity verification.
 
