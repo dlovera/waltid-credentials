@@ -12,17 +12,17 @@
     "KiwiAccessCredential"
   ],
   "issuer": {
-    "id": "did:key:z6MkjxvA4FNrQUhr8f7xhdQuP1VPzErkcnfxsRaU5oFgy2E5",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "name": "Kiwi Access Authority",
     "url": "https://kiwiaccess.co.nz/",
     "image": "https://kiwiaccess.co.nz/wp-content/uploads/2018/10/Kiwi-Access-Logo-White.png"
   },
-  "issuanceDate": "2023-11-15T10:00:00+13:00",
-  "expirationDate": "2028-11-15T10:00:00+13:00",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "name": "Kiwi Access Card",
   "description": "An official evidence of age and identity card for use across New Zealand.",
   "credentialSubject": {
-    "id": "did:example:kiwi1234abcd",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "card_number": "KA123456789",
     "full_name": "SUSAN TURNER",
     "birth_date": "1998-08-28",

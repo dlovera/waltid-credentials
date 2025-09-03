@@ -7,17 +7,16 @@
     "https://europa.eu/schemas/v-id/2020/v1",
     "https://europa.eu/schemas/eidas/2020/v1"
   ],
-  "id": "urn:uuid:3252d03c-c168-45fd-bf0a-b0b838a65e2c",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "type": [
     "VerifiableCredential",
     "EducationalID"
   ],
-  "issuer": "did:jwk:eyJrdHkiOiJPS1AiLCJkIjoiSElOOVdjVkNxaEd2d1o4STQ3V2VNdHhHY2VTS3B2YUVudTVlWEFvV3lEbyIsImNydiI6IkVkMjU1MTkiLCJraWQiOiJDRlEtTnJhNXlueUJzZnh3eTdhTmY4ZHVBRVVDTWxNSXJSSXJEZzZESXk0IiwieCI6Img1bmJ3Nlg5Sm1JMEJ2dVE1TTBKWGZ6TzhzMmVFYlBkVjI5d3NIVEw5cGsifQ==",
-  "issuanceDate": "2023-12-13T11:56:31.382517677Z",
-  "issued": "2023-12-13T11:56:19Z",
-  "validFrom": "2023-12-13T11:56:19Z",
+  "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issued": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "did:key:z6MksJPJvvPhV16vRPNkoDyGfp82bacJWor1fTPW62ZXL4Pw#z6MksJPJvvPhV16vRPNkoDyGfp82bacJWor1fTPW62ZXL4Pw",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "identifier": [
       {
         "schemeID": "European Student Identifier",
@@ -80,6 +79,7 @@
   "credentialSubject": {
     "id": "<subjectDid>"
   },
-  "issuanceDate": "<timestamp>"
+  "issuanceDate": "<timestamp>",
+  "issued": "<timestamp>"
 }
 ```

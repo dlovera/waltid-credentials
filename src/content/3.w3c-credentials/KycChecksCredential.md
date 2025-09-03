@@ -26,10 +26,10 @@
             }
         ]
     },
-    "id": "identity#KycCredential#3add94f4-28ec-42a1-8704-4e4aa51006b4",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "issued": "2021-08-31T00:00:00Z",
     "issuer": {
-        "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "image": {
             "id": "https://images.squarespace-cdn.com/content/v1/609c0ddf94bcc0278a7cbdb4/1660296169313-K159K9WX8J8PPJE005HV/Walt+Bot_Logo.png?format=100w",
             "type": "Image"
@@ -38,8 +38,7 @@
         "type": "Profile",
         "url": "https://images.squarespace-cdn.com/content/v1/609c0ddf94bcc0278a7cbdb4/1660296169313-K159K9WX8J8PPJE005HV/Walt+Bot_Logo.png?format=100w"
     },
-    "validFrom": "2021-08-31T00:00:00Z",
-    "issuanceDate": "2021-08-31T00:00:00Z",
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "evidence": {
         "documentPresence": "Digital",
         "evidenceDocument": "KYC",

@@ -5,16 +5,15 @@
   "@context": [
     "https://www.w3.org/2018/credentials/v1"
   ],
-  "id": "urn:uuid:3b2a1f74-9c5a-4a3a-8d3f-7b9c2e5d4f10",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "type": [
     "VerifiableCredential",
     "ProofOfAddress"
   ],
-  "issuer": "did:example:utility-at",
-  "validFrom": "2025-08-12T10:00:00Z",
-  "validUntil": "2026-08-11T23:59:59Z",
+  "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "did:example:john-doe-123",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "firstName": "John",
     "lastName": "Doe",
     "address": {
@@ -56,7 +55,6 @@
     "id": "<subjectDid>"
   },
   "issuanceDate": "<timestamp>",
-  "validFrom": "<timestamp>",
-  "validUntil": "<timestamp-in:365d>"
+  "expirationDate": "<timestamp-in:365d>"
 }
 ```

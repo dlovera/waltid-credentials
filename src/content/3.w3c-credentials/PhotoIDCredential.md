@@ -9,12 +9,12 @@
   "id": "urn:uuid:123",
   "type": ["VerifiableCredential", "PhotoIDCredential"],
   "issuer": {
-    "id": "did:example:issuer"
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
   },
-  "issuanceDate": "2025-08-06T08:00:00Z",
-  "expirationDate": "2035-08-06T08:00:00Z",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "did:example:holder",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "iso23220": {
       "family_name_unicode": "Doe",
       "given_name_unicode": "John",

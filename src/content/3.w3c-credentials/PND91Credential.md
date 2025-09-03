@@ -3,12 +3,12 @@
 ```json
 {
     "@context": ["https://www.w3.org/2018/credentials/v1", "ndid:context:PND9XContext"],
-    "id": "0xc78632268bfed9ffef8eddbb4675ab56250152c7b102d74a6fb2b61fa133decd",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": ["VerifiableCredential", "PND91Credential"],
-    "issuer": "did:ndid:956660dd-87ab-48c0-8e8a-dd69e3532558",
-    "issuanceDate": "2023-09-20T03:43:36.137Z",
+    "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
-        "id": "did:ndid:197f5aa5-cae2-414e-9da0-e2d8ee2d3f3d",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "PND9XCredential": [
             {
                 "taxYear": "2565",

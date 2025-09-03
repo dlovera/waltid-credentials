@@ -6,11 +6,11 @@
     "id": "http://example.gov/credentials/3732",
     "type": ["VerifiableCredential", "UniversityDegree"],
     "issuer": {
-        "id": "did:web:vc.transmute.world"
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
     },
-    "issuanceDate": "2020-03-10T04:24:12.164Z",
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
-        "id": "did:example:ebfeb1f712ebc6f1c276e12ec21",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "degree": {
             "type": "BachelorDegree",
             "name": "Bachelor of Science and Arts"

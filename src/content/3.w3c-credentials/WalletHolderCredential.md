@@ -3,12 +3,12 @@
 ```json
 {
     "@context": ["https://www.w3.org/2018/credentials/v1", "ndid:context:walletHolder"],
-    "id": "0x5ff0713ae0e29ca52a7799370a82534fdf0f25d6e82ae5645e827f0ac34eaf4a",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": ["VerifiableCredential", "WalletHolderCredential"],
-    "issuer": "did:ndid:5f76f7b0-bb71-4c3a-9410-9e0a13fc51b0",
-    "issuanceDate": "2023-09-14T07:21:13.591Z",
+    "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
-        "id": "did:ndid:197f5aa5-cae2-414e-9da0-e2d8ee2d3f3d",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "walletHolderCredential": {
             "firstName": "สมศักดิ์",
             "lastName": "มั่งมี",

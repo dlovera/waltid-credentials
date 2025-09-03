@@ -4,8 +4,9 @@
 {
     "@context": ["https://www.w3.org/2018/credentials/v1"],
     "type": ["VerifiableCredential", "IdentityCredential"],
-    "id": "",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
+      "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
       "given_name": "John",
       "family_name": "Doe",
       "email": "johndoe@example.com",
@@ -22,12 +23,11 @@
       "is_over_65": true
     },
     "issuer": {
-        "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "name": "Government of Anytown"
     },
-    "issuanceDate": "2021-08-31T00:00:00Z",
-    "validFrom": "2021-09-01T00:00:00Z",
-    "expirationDate": "2031-08-31T00:00:00Z"
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
 }
 ```
 
@@ -61,7 +61,6 @@
         "id": "<subjectDid>"
     },
     "issuanceDate": "<timestamp>",
-    "validFrom": "<timestamp>",
     "expirationDate": "<timestamp-in:365d>"
 }
 ```

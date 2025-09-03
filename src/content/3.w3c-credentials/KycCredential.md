@@ -9,9 +9,9 @@
     "VerifiableCredential",
     "KycCredential"
   ],
-  "id": "urn:uuid:fd0e0f93-5011-4fa2-9020-fa7da57df947",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "did:key:z6MkgjsyqQUvtW4wPWKkqffiygdCDathYK1vvpSkxC7qCmqr#z6MkgjsyqQUvtW4wPWKkqffiygdCDathYK1vvpSkxC7qCmqr",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "givenName": "HASSAN MOUSA MOHAMMAD ABUHELWEH",
     "surname": "ABUHELWEH",
     "verifiedEmail": "email@gmail.com",
@@ -43,12 +43,11 @@
     ]
   },
   "issuer": {
-    "id": "did:key:z6MkjoRhq1jSNJdLiruSXrFFxagqrztZaXHqHGUTKJbcNywp",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "name": "KYC Provider"
   },
-  "issuanceDate": "2024-05-13T08:29:25.744750031Z",
-  "validFrom": "2024-05-13T08:29:25.744775222Z",
-  "expirationDate": "2025-05-13T08:29:25.744794971Z"
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
 } 
 ```
 
@@ -88,7 +87,6 @@
         "id": "<issuerDid>"
     },
     "issuanceDate": "<timestamp>",
-    "validFrom": "<timestamp>",
     "expirationDate": "<timestamp-in:365d>"
 }
 ```

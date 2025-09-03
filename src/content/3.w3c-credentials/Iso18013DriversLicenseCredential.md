@@ -17,18 +17,18 @@ This specification describes an experimental vocabulary for expressing a Verifia
     "Iso18013DriversLicenseCredential"
   ],
   "issuer": {
-    "id": "did:key:z6MkjxvA4FNrQUhr8f7xhdQuP1VPzErkcnfxsRaU5oFgy2E5",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "name": "Utopia Department of Motor Vehicles",
     "url": "https://dmv.utopia.example/",
     "image": "https://dmv.utopia.example/logo.png"
   },
-  "issuanceDate": "2023-11-15T10:00:00-07:00",
-  "expirationDate": "2028-11-15T12:00:00-06:00",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "name": "Utopia Driver's License",
   "image": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUg...kSuQmCC",
   "description": "A license granting driving privileges in Utopia.",
   "credentialSubject": {
-    "id": "did:example:12347abcd",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": "LicensedDriver",
     "driversLicense": {
       "type": "Iso18013DriversLicense",

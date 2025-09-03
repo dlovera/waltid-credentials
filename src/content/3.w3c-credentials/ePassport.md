@@ -5,15 +5,16 @@
   "@context": [
     "https://www.w3.org/2018/credentials/v1"
   ],
-  "id": "urn:uuid:6c5f1f91-5c3a-4f4a-94a0-8b2a9cfc9b11",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "type": [
     "VerifiableCredential",
     "ePassport"
   ],
-  "issuer": "did:example:gov-at",
-  "validFrom": "2025-08-12T10:00:00Z",
+  "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "did:example:john-doe-123",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "fullName": "John Doe",
     "givenName": "John",
     "familyName": "Doe",
@@ -81,7 +82,6 @@
     "id": "<subjectDid>"
   },
   "issuanceDate": "<timestamp>",
-  "validFrom": "<timestamp>",
   "expirationDate": "<timestamp-in:365d>"
 }
 ```

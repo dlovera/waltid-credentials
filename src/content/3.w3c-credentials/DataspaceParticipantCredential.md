@@ -9,16 +9,15 @@
     "VerifiableCredential",
     "DataspaceParticipantCredential"
   ],
-  "id": "",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "issuer": {
-    "id": "did:web:delta-dao.com",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "name": "deltaDAO AG"
   },
-  "issuanceDate": "2021-08-31T00:00:00Z",
-  "validFrom": "2021-09-01T00:00:00Z",
-  "expirationDate": "2031-08-31T00:00:00Z",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "Some String or URI",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": "DataspaceParticipant",
     "dataspaceId": "Pontus-X",
     "legalName": "deltaDAO AG",

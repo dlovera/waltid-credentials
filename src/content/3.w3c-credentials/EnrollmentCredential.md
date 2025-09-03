@@ -3,12 +3,12 @@
 ```json
 {
   "credentialData": {
-    "id": "urn:uuid:THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "@context": [
       "https://www.w3.org/2018/credentials/v1"
     ],
     "credentialSubject": {
-      "id": "did:example:",
+      "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
       "wiserID": "10234567",
       "name": "Christine Schmidt",
       "birthDate": "1984-04-15",

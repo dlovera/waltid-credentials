@@ -10,13 +10,14 @@
     "VerifiableCredential",
     "LegalRegistrationNumber"
   ],
-  "id": "https://www.delta-dao.com/.well-known/2210_gx_registrationnumber.json",
-  "issuer": "did:web:www.delta-dao.com:notary:v1",
-  "issuanceDate": "2025-02-23T16:42:16.058Z",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
     "@context": "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#",
     "type": "gx:legalRegistrationNumber",
-    "id": "https://www.delta-dao.com/.well-known/2210_gx_registrationnumber.json",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "gx:leiCode": "391200FJBNU0YW987L26",
     "gx:leiCode-countryCode": "DE"
   },

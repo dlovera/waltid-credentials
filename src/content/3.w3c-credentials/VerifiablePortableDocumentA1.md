@@ -3,14 +3,13 @@
 ```json
 {
     "@context": ["https://www.w3.org/2018/credentials/v1"],
-    "id": "did:ebsi:zf39qHTXaLrr6iy3tQhT3UZ",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": ["VerifiableCredential", "VerifiableAttestation", "VerifiablePortableDocumentA1"],
-    "issuer": "did:ebsi:zf39qHTXaLrr6iy3tQhT3UZ",
-    "issuanceDate": "2022-11-10T19:19:47.287Z",
-    "validFrom": "2022-11-10T19:19:47.287Z",
-    "issued": "2022-11-10T19:19:47.287Z",
+    "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "issued": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
-            "id": "subjectDID",
+            "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
             "section1": {
                 "personalIdentificationNumber": "1",
                 "sex": "01",
@@ -141,7 +140,6 @@
     },
     "issuanceDate": "<timestamp-ebsi>",
     "issued": "<timestamp-ebsi>",
-    "validFrom": "<timestamp-ebsi>",
     "expirationDate": "<timestamp-ebsi-in:365d>"
 }
 ```

@@ -4,9 +4,9 @@
 {
     "@context": ["https://www.w3.org/2018/credentials/v1"],
     "type": ["VerifiableCredential", "VerifiableAttestation", "Visa"],
-    "id": "did:visa:987654321abcdef",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
-        "id": "",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "firstName": "John",
         "lastName": "Doe",
         "passportNumber": "G7F2A04F7O",
@@ -22,12 +22,11 @@
         "purposeOfVisit": "Tourism"
     },
     "issuer": {
-        "id": "did:key:z3MkpTHsHjxvqq7TnqmBnYf6pWZpa27DqXx6Wp7dVPLm987X",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "name": "Embassy of Wonderland"
     },
-    "issuanceDate": "2023-11-01T00:00:00Z",
-    "validFrom": "2024-01-01T00:00:00Z",
-    "expirationDate": "2024-06-30T00:00:00Z"
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
 }
 ```
 
@@ -63,7 +62,6 @@
         "id": "<subjectDid>"
     },
     "issuanceDate": "<timestamp>",
-    "validFrom": "<timestamp>",
     "expirationDate": "<timestamp-in:365d>"
 }
 ```

@@ -3,7 +3,7 @@
 ```json
 {
     "@context": ["https://www.w3.org/2018/credentials/v1"],
-    "id": "did:ebsi:635ba519cd19764e84ea67dd",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": [
       "VerifiableCredential", 
       "VerifiableAttestation", 
@@ -11,7 +11,7 @@
       "PassportCh"
     ],
     "issuer": {
-        "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "image": {
             "id": "https://img.freepik.com/premium-photo/swiss-flag-switzerland_469558-1774.jpg",
             "type": "Image"
@@ -20,12 +20,10 @@
         "type": "Profile",
         "url": "https://img.freepik.com/premium-photo/swiss-flag-switzerland_469558-1774.jpg"
     },
-    "issuanceDate": "2022-11-10T19:19:47.287Z",
-    "validFrom": "2022-11-10T19:19:47.287Z",
-    "expirationDate": "2032-11-10T19:19:47.287Z",
-    "issued": "2022-11-10T19:19:47.287Z",
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
-        "id": "urn:uri:123",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "residence": "Schweiz",
         "canton": "Zürich",
         "address": "Seestraße 1",

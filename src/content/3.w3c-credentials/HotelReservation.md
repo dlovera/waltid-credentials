@@ -14,7 +14,7 @@
     "type": "FullJsonSchemaValidator2021"
   },
   "credentialSubject": {
-    "id": "did:key:string",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "familyName": "DOE",
     "firstName": "Jane",
     "currentAddress": [
@@ -23,14 +23,13 @@
     "dateOfBirth": "1993-04-08",
     "placeOfBirth": "LILLE, FRANCE"
   },
-  "id": "urn:uuid:3add94f4-28ec-42a1-8704-4e4aa51006b4",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "issued": "2021-08-31T00:00:00Z",
   "issuer": {
-    "id": "did:web:string",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "name": "Hotel"
   },
-  "validFrom": "2024-01-31T00:00:00Z",
-  "issuanceDate": "2024-01-31T00:00:00Z"
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
 }
 ```
 

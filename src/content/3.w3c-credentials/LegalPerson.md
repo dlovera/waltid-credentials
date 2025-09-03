@@ -7,13 +7,13 @@
     "https://w3id.org/gaia-x/development#"
   ],
   "type": ["VerifiableCredential", "LegalPerson"],
-  "id": "https://example.org/legal-participant/68a5bbea9518e7e2ac1cc75bcc8819a7edd5c4711e073ffa4bb260034dc6423c/data.json",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "name": "Legal Person",
-  "issuer": "did:web:example.org",
-  "issuanceDate": "2023-07-20T07:05:44Z",
-  "expirationDate": "2033-07-20T07:05:44Z",
+  "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "https://example.org/legal-participant-json/68a5bbea9518e7e2ac1cc75bcc8819a7edd5c4711e073ffa4bb260034dc6423c/data.json",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": "gx:LegalPerson",
     "gx:legalName": "Example Org",
     "gx:legalRegistrationNumber": {

@@ -22,7 +22,7 @@
     "familyName": "DOE",
     "firstName": "Jane",
     "gender": "FEMALE",
-    "id": "did:ebsi:2AEMAqXWKYMu1JHPAgGcga4dxu7ThgfgN95VyJBJGZbSJUtp",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "nameAndFamilyNameAtBirth": "Jane DOE",
     "personalIdentifier": "0904008084H",
     "placeOfBirth": "LILLE, FRANCE"
@@ -42,11 +42,11 @@
       "verifier": "did:ebsi:2A9BZ9SUe6BatacSpvs1V5CdjHvLpQ7bEsi2Jb6LdHKnQxaN"
     }
   ],
-  "id": "urn:uuid:3add94f4-28ec-42a1-8704-4e4aa51006b4",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "issued": "2021-08-31T00:00:00Z",
-  "issuer": "did:ebsi:2A9BZ9SUe6BatacSpvs1V5CdjHvLpQ7bEsi2Jb6LdHKnQxaN",
+  "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "validFrom": "2021-08-31T00:00:00Z",
-  "issuanceDate": "2021-08-31T00:00:00Z"
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
 }
 ```
 

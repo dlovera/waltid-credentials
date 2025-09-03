@@ -6,15 +6,15 @@
     "https://www.w3.org/2018/credentials/v1",
     "https://w3id.org/email/v1"
   ],
-  "id": "urn:uuid:123e4567-e89b-12d3-a456-426614174000",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "type": [
     "VerifiableCredential",
     "EmailVerificationCredential"
   ],
-  "issuer": "did:example:issuer123",
-  "issuanceDate": "2025-05-12T15:00:00Z",
+  "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "credentialSubject": {
-    "id": "did:example:user456",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "name": "Christine Schmidt",
     "email": "user@example.com",
     "emailVerified": true,

@@ -3,20 +3,19 @@
 ```json
 {
     "@context": ["https://www.w3.org/2018/credentials/v1"],
-    "id": "did:ebsi:635ba519cd19764e84ea67dd",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "type": [
       "VerifiableCredential", 
       "VerifiableAttestation", 
       "VerifableId", 
       "MortgageEligibility"
     ],
-    "issuer": "did:ebsi:zhs8QaHif4mPqhEcn5Z8K9E",
-    "issuanceDate": "2022-11-10T19:19:47.287Z",
-    "validFrom": "2022-11-10T19:19:47.287Z",
-    "expirationDate": "2022-11-10T19:19:47.287Z",
-    "issued": "2022-11-10T19:19:47.287Z",
+    "issuer": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "issued": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+    "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "credentialSubject": {
-        "id": "urn:uri:123",
+        "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
         "salutation": "",
         "familyName": "",
         "firstName": "",
@@ -59,6 +58,7 @@
         "id": "<subjectDid>"
     },
     "issuanceDate": "<timestamp>",
+    "issued": "<timestamp>",
     "expirationDate": "<timestamp-in:365d>"
 }
 ```

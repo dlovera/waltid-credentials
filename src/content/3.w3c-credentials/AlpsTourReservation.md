@@ -14,18 +14,16 @@
     "type": "FullJsonSchemaValidator2021"
   },
   "credentialSubject": {
-    "id": "did:key:string",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "bookingId": "string"
   },
-  "id": "urn:uuid:3add94f4-28ec-42a1-8704-4e4aa51006b4",
-  "issued": "2021-08-31T00:00:00Z",
+  "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
   "issuer": {
-    "id": "did:web:string",
+    "id": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
     "name": "Alp Tour"
   },
-  "validFrom": "2024-05-31T00:00:00Z",
-  "expirationDate": "2024-05-31T00:00:00Z",
-  "issuanceDate": "2024-03-31T00:00:00Z"
+  "expirationDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION",
+  "issuanceDate": "THIS WILL BE REPLACED WITH DYNAMIC DATA FUNCTION"
 }
 ```
 
