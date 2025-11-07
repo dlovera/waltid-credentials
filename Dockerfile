@@ -1,4 +1,4 @@
-FROM docker.io/node:24-:alpine AS buildstage
+FROM docker.io/node:24-alpine AS buildstage
 RUN apk add --update nodejs git
 COPY ./package.json /build/
 WORKDIR /build
@@ -7,7 +7,7 @@ COPY ./ /build
 
 RUN npm run build
 # RUN
-FROM docker.io/node:alpine
+FROM docker.io/node:24-alpine
 COPY --from=buildstage /build/.output/ /app
 WORKDIR /app
 EXPOSE 3000
